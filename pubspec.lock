@@ -376,9 +376,10 @@ packages:
   swahili_nfc:
     dependency: "direct main"
     description:
-      path: "/Users/bstar/Desktop/swahili_nfc"
-      relative: false
-    source: path
+      name: swahili_nfc
+      sha256: "5658855049af2ab4c492d8662892cf99b3e209b09eee9696a800ff8e09687794"
+      url: "https://pub.dev"
+    source: hosted
     version: "0.1.15"
   term_glyph:
     dependency: transitive
