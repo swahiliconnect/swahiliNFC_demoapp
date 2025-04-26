@@ -2,7 +2,7 @@
 
 ## Overview
 
-This example application demonstrates the capabilities of the SwahiliNFC Flutter package, which provides a comprehensive solution for NFC business card applications with a focus on secure contact exchange. The app showcases the core features of the SwahiliNFC package with a premium UI/UX experience.
+This example application demonstrates the capabilities of the SwahiliNFC Flutter package, which provides a comprehensive solution for NFC business card applications with a focus on secure contact exchange. The app showcases the core features of the SwahiliNFC package with a good UI/UX experience.
 
 ![SwahiliNFC Demo App](https://raw.githubusercontent.com/swahiliconnect/swahili_nfc/main/doc/images/swahilinfc_demo.gif)
 
@@ -11,7 +11,7 @@ This example application demonstrates the capabilities of the SwahiliNFC Flutter
 - **Multi-type Content Writing**: Write contact information or links to NFC cards
 - **Intelligent Reading**: Automatically detect content type and provide relevant actions
 - **Dark/Light Mode**: Toggle between theme modes for better visibility
-- **Premium UX**: Bottom sheet animations, success/error dialogs, and smooth transitions
+- **UX**: Bottom sheet animations, success/error dialogs, and smooth transitions
 - **Interactive Card Display**: Take actions directly from scanned cards (call, email, open links)
 - **Comprehensive Status**: NFC availability checking and troubleshooting information
 
